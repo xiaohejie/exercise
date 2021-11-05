@@ -20,7 +20,7 @@ void test1() {
 	int len = sizeof(nums) / sizeof(nums[0]);
 	func(nums , x , len);
 }
-int main() {
+int main2() {
 	test1();
 	system("pause");
 	return 0;

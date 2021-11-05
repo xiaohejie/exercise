@@ -24,6 +24,9 @@
     <ClCompile Include="exercise2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="exercise3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="deleteNum.h">
